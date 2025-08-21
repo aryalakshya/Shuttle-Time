@@ -9,7 +9,7 @@ node_modules/
 
 
 .api.txt
-
+.DS_Store
 
 .firebase/
 
