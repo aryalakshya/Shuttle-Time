@@ -15,7 +15,7 @@ A real-time, web-based application for booking badminton courts, built with Reac
 
 ##  Tech Stack
 
-* **Frontend:** React
+* **Frontend:** React (via CDN)
 * **Styling:** Tailwind CSS
 * **Backend & Database:** Firebase (Firestore, Authentication)
 * **Development Server:** live-server
